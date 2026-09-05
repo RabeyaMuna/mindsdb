@@ -1,0 +1,542 @@
+[
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'writerai' defined as a dependency but not used in the codebase"
+        },
+        "module": "writerai",
+        "location": {
+            "file": "mindsdb/integrations/handlers/rag_handler/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP001",
+            "message": "'writer' imported but missing from the dependency definitions"
+        },
+        "module": "writer",
+        "location": {
+            "file": "mindsdb/integrations/handlers/rag_handler/settings.py",
+            "line": 10,
+            "column": 0
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'docker' defined as a dependency but not used in the codebase"
+        },
+        "module": "docker",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'netifaces' defined as a dependency but not used in the codebase"
+        },
+        "module": "netifaces",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pytest' defined as a dependency but not used in the codebase"
+        },
+        "module": "pytest",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pytest-lazy-fixture' defined as a dependency but not used in the codebase"
+        },
+        "module": "pytest-lazy-fixture",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pytest-subtests' defined as a dependency but not used in the codebase"
+        },
+        "module": "pytest-subtests",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'lightwood' defined as a dependency but not used in the codebase"
+        },
+        "module": "lightwood",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'responses' defined as a dependency but not used in the codebase"
+        },
+        "module": "responses",
+        "location": {
+            "file": "requirements/requirements-test.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'packaging' defined as a dependency but not used in the codebase"
+        },
+        "module": "packaging",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'werkzeug' defined as a dependency but not used in the codebase"
+        },
+        "module": "werkzeug",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'flask-restx' defined as a dependency but not used in the codebase"
+        },
+        "module": "flask-restx",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'flask' defined as a dependency but not used in the codebase"
+        },
+        "module": "flask",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'python-multipart' defined as a dependency but not used in the codebase"
+        },
+        "module": "python-multipart",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pyparsing' defined as a dependency but not used in the codebase"
+        },
+        "module": "pyparsing",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'cryptography' defined as a dependency but not used in the codebase"
+        },
+        "module": "cryptography",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'psycopg' defined as a dependency but not used in the codebase"
+        },
+        "module": "psycopg",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'waitress' defined as a dependency but not used in the codebase"
+        },
+        "module": "waitress",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pymongo' defined as a dependency but not used in the codebase"
+        },
+        "module": "pymongo",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'psutil' defined as a dependency but not used in the codebase"
+        },
+        "module": "psutil",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'sqlalchemy' defined as a dependency but not used in the codebase"
+        },
+        "module": "sqlalchemy",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'psycopg2-binary' defined as a dependency but not used in the codebase"
+        },
+        "module": "psycopg2-binary",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'alembic' defined as a dependency but not used in the codebase"
+        },
+        "module": "alembic",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'redis' defined as a dependency but not used in the codebase"
+        },
+        "module": "redis",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'walrus' defined as a dependency but not used in the codebase"
+        },
+        "module": "walrus",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'flask-compress' defined as a dependency but not used in the codebase"
+        },
+        "module": "flask-compress",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'appdirs' defined as a dependency but not used in the codebase"
+        },
+        "module": "appdirs",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'mindsdb-sql' defined as a dependency but not used in the codebase"
+        },
+        "module": "mindsdb-sql",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'mindsdb-evaluator' defined as a dependency but not used in the codebase"
+        },
+        "module": "mindsdb-evaluator",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'checksumdir' defined as a dependency but not used in the codebase"
+        },
+        "module": "checksumdir",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'duckdb' defined as a dependency but not used in the codebase"
+        },
+        "module": "duckdb",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pydateinfer' defined as a dependency but not used in the codebase"
+        },
+        "module": "pydateinfer",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'dataprep_ml' defined as a dependency but not used in the codebase"
+        },
+        "module": "dataprep_ml",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'dill' defined as a dependency but not used in the codebase"
+        },
+        "module": "dill",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'numpy' defined as a dependency but not used in the codebase"
+        },
+        "module": "numpy",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'pytz' defined as a dependency but not used in the codebase"
+        },
+        "module": "pytz",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'botocore' defined as a dependency but not used in the codebase"
+        },
+        "module": "botocore",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'boto3' defined as a dependency but not used in the codebase"
+        },
+        "module": "boto3",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'python-dateutil' defined as a dependency but not used in the codebase"
+        },
+        "module": "python-dateutil",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'gunicorn' defined as a dependency but not used in the codebase"
+        },
+        "module": "gunicorn",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'scikit-learn' defined as a dependency but not used in the codebase"
+        },
+        "module": "scikit-learn",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'protobuf' defined as a dependency but not used in the codebase"
+        },
+        "module": "protobuf",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'hierarchicalforecast' defined as a dependency but not used in the codebase"
+        },
+        "module": "hierarchicalforecast",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'google-auth-oauthlib' defined as a dependency but not used in the codebase"
+        },
+        "module": "google-auth-oauthlib",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    },
+    {
+        "error": {
+            "code": "DEP002",
+            "message": "'msal' defined as a dependency but not used in the codebase"
+        },
+        "module": "msal",
+        "location": {
+            "file": "requirements/requirements.txt",
+            "line": null,
+            "column": null
+        }
+    }
+]

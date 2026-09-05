@@ -1,3 +1,5 @@
+import sentence_transformers  # noqa: F401
+
 from mindsdb.integrations.libs.const import HANDLER_TYPE
 
 from .__about__ import __description__ as description
@@ -19,10 +21,10 @@ permanent = False
 
 __all__ = [
     "Handler",
-    "version",
-    "name",
-    "type",
-    "title",
     "description",
     "import_error",
+    "name",
+    "title",
+    "type",
+    "version",
 ]
